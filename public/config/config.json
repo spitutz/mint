@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x92832FAbF1206de53892F0366f11cCFD9206B372",
+  "SCAN_LINK": "https://polygonscan.com/token/0x92832FAbF1206de53892F0366f11cCFD9206B372",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Cumm-Nft",
+  "SYMBOL": "CUMM",
+  "MAX_SUPPLY": 30,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST":0.002,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/cummy-nft",
+  "SHOW_BACKGROUND": true
+}
